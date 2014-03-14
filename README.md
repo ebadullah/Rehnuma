@@ -1,13 +1,3 @@
-Rehnuma is basically sms based government 
-information portal aims to guide the people about making general documents
-e.g birth certificate, cnic, passport and so on. i.e t explain the procedure, 
-telling about the pre-requisites if required.
-Beside this Rehnuma provide information (location, Contact numbers ) about government 
-departments and emergency services of the Peshawar city like edhi, rescue 1122 and so on.
-
-All you need to do is just a few simple steps given below.
-1. Go to your write message from mobile
-2. Type  'reh' and send it to 9900 
-
-You will recieve information.
-
+Rehnuma is SMS and Web Based Collective Information Portal aims to answer any question of you about Peshawar City and give you the latest updated information of different departments/categories like Transport, Police, Health and so on. 
+Rehnuma is not only to guide you about the procedures of making general documents i.e.. How to make Driving License/ National Identity Card/ Birth Certificate and so on...Yet eager to answer your quires to find out the best, popular products and interesting things about the city.
+Another Objective of Rehnuma is to make you finding the information easily and up to dated information just on a single button click.
